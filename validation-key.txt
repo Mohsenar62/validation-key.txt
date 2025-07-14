@@ -1,0 +1,2 @@
+https://api.testnet.minepi.com/validation-key.txt
+bb00349546ec47ec364d6eb2cb2f5c7579f17056aa7fbc5484150b635f9726d36a620ba319989393fb62279f8d43bb9783d8d91e81b01d08b5d20a43644e4dcc
